@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-builder",
+  "version": "1.0.0",
+  "description": "Interactive Portfolio Builder - IT Themed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "builder"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
